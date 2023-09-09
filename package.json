@@ -1,0 +1,15 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Projeto para ensino do Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["Jest, Calculadora"],
+  "author": "Alberto Alves",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
